@@ -146,6 +146,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/z00d/proprietary/etc/telephony/rril_7260_conf_2_ATT.txt:system/etc/telephony/rril_7260_conf_2_ATT.txt \
     vendor/asus/z00d/proprietary/etc/telephony/rril_7260_conf_3.txt:system/etc/telephony/rril_7260_conf_3.txt \
     vendor/asus/z00d/proprietary/etc/telephony/rril_7260_conf_4.txt:system/etc/telephony/rril_7260_conf_4.txt \
+    vendor/asus/z00d/proprietary/etc/wifi/bcmdhd.cal:system/etc/wifi/bcmdhd.cal \
     vendor/asus/z00d/proprietary/lib/DIT_AT_BACK_HL.cfg:system/lib/DIT_AT_BACK_HL.cfg \
     vendor/asus/z00d/proprietary/lib/DIT_AT_BACK_NORMAL.cfg:system/lib/DIT_AT_BACK_NORMAL.cfg \
     vendor/asus/z00d/proprietary/lib/DIT_AT_BACK_NORMAL.cfg.fac:system/lib/DIT_AT_BACK_NORMAL.cfg.fac \
@@ -405,6 +406,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/z00d/proprietary/vendor/firmware/00imx135-0-0x4-0.drvb:system/vendor/firmware/00imx135-0-0x4-0.drvb \
     vendor/asus/z00d/proprietary/vendor/firmware/00ov8830-0-0x2-0.drvb:system/vendor/firmware/00ov8830-0-0x2-0.drvb \
     vendor/asus/z00d/proprietary/vendor/firmware/01s5k8aay.drvb:system/vendor/firmware/01s5k8aay.drvb \
+    vendor/asus/z00d/proprietary/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
+    vendor/asus/z00d/proprietary/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
     vendor/asus/z00d/proprietary/vendor/firmware/telephony/1024_6360_family.tlv:system/vendor/firmware/telephony/1024_6360_family.tlv \
     vendor/asus/z00d/proprietary/vendor/firmware/telephony/1024_max_tx.tlv:system/vendor/firmware/telephony/1024_max_tx.tlv \
     vendor/asus/z00d/proprietary/vendor/firmware/telephony/2048_6360_family.tlv:system/vendor/firmware/telephony/2048_6360_family.tlv \
